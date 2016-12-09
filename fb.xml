@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="First Test Suite">
+<test name="FaceBookTest">
+<classes>
+<class name="FirstPack.RegistrationFB" />
+<class name="FirstPack.Login" />
+</classes>
+</test>
+</suite>
